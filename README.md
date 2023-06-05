@@ -2,6 +2,10 @@
 
 ## Installation :
 
+### On fedora :
+```
+sudo dnf install golang
+```
 
 ## Exercise 1:
 
